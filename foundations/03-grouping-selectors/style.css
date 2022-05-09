@@ -2,3 +2,8 @@
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
+
+.common .black {
+    background-color: #222;
+    color: #fff;
+}
