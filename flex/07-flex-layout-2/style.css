@@ -47,6 +47,11 @@ a {
   color: white;
 }
 
+.card-container {
+  display: flex;
+  flex-flow: row wrap;
+}
+
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
