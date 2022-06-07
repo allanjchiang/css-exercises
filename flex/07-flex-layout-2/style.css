@@ -25,6 +25,10 @@ body {
   justify-content: center;
 }
 
+.content {{
+  display: flex;
+}}
+
 .sidebar {
   width: 300px;
   background: royalblue;
