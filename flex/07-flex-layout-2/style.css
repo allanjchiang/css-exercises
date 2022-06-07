@@ -25,13 +25,17 @@ body {
   justify-content: center;
 }
 
-.content {{
+.content {
   display: flex;
-}}
+  flex-direction: row;
+  height: 85vh;
+}
 
 .sidebar {
   width: 300px;
   background: royalblue;
+  flex-shrink: 0;
+  color: white;
 }
 
 .card {
